@@ -1,0 +1,30 @@
+Id         :  1407028
+Name       :  Rezwan
+University :  KUET
+Department :  CSE
+CGPA       :  3.249754601226994
+
+Id         :  15976315
+Name       :  Md. Rezwanul Haque
+University :  MIT
+Department :  CSE and EEE
+CGPA       :  3.95
+
+Id         :  1407810
+Name       :  Rakib
+University :  DMC
+Department :  Heart
+CGPA       :  3.668625
+
+Id         :  1407038
+Name       :  Raju
+University :  KUET
+Department :  CSE
+CGPA       :  3.7150000000000003
+
+Id         :  1401029
+Name       :  Sabbir
+University :  RUET
+Department :  ME
+CGPA       :  3.6005624999999997
+

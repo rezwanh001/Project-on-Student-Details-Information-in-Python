@@ -1,0 +1,31 @@
+5
+1407028 Rezwan KUET CSE
+3.29
+20.25
+3.21
+20.50
+done
+1401007 Nur BUET EEE
+3.96
+20.25
+3.98
+19.75
+done
+1407810 Rakib DMC Heart
+3.56
+20.25
+3.78
+19.75
+done
+1407038 Raju KUET CSE
+3.56
+20.25
+3.87
+20.25
+done
+1401029 Sabbir RUET ME
+3.25
+20.25
+3.96
+19.75
+done
